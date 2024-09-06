@@ -1,0 +1,1 @@
+This is a shared repository to collaborate on Internet Draft "Green Networking Metrics".  The most recent published revision is -02 (draft-dx-opsawg-green-metrics-02).  Most likely, the draft will be refactored under a new name that will be targeted at the GREEN WG.  
